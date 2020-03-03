@@ -1,0 +1,11 @@
+
+
+      LAC X
+#LOOP LND a
+      BRP LOOP
+      ADD '5'
+// COMMENT
+      STP
+
+.DATA
+X = '10'
